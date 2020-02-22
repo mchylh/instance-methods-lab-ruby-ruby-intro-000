@@ -11,4 +11,3 @@ end
     ada = Person.new
     ada.walk
   end
-end
