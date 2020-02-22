@@ -4,7 +4,7 @@ class Person
     ada = Person.new
     ada.talk
   end
-end  
+end
 
   def walk
     "The Person is walking."
