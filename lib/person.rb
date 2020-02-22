@@ -1,10 +1,10 @@
 class Person
 end
 
-class talk
+class Talk
   puts "Hello World!"
 end
 
-class walk
+class Walk
   puts "The Person is walking."
 end
