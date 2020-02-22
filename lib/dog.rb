@@ -6,5 +6,5 @@ class bark
 end
 
 class sit
-  puts "The Dog is sitting."  
-end  
+  puts "The Dog is sitting."
+end
