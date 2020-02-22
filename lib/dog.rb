@@ -1,10 +1,10 @@
 class Dog
 end
 
-class bark
+class Bark
   puts "Woof woof!"
 end
 
-class sit
+class Sit
   puts "The Dog is sitting."
 end
