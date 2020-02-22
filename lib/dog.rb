@@ -4,7 +4,7 @@ class Dog
   end
 
   def bark
-    "Woof woof!"
+    "Woof!"
   end
 
   def sit
