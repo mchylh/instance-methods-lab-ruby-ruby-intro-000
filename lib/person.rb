@@ -1,10 +1,13 @@
 class Person
-end
+  def initialize(name)
+    @name = name
+  end
 
-class Talk
-  puts "Hello World!"
-end
+  def talk
+    "Hello World!"
+  end
 
-class Walk
-  puts "The Person is walking."
+  def walk
+    "The Person is walking."
+  end
 end
