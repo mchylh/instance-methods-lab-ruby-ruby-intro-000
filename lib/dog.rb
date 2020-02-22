@@ -4,10 +4,9 @@ class Dog
     fido = Dog.new
     fido.bark
   end
-end
-
   def sit
-  "The Dog is sitting."
-  fido = Dog.new
-  fido.sit
+    "The Dog is sitting."
+    fido = Dog.new
+    fido.sit
   end
+end
