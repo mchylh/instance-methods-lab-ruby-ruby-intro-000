@@ -1,10 +1,13 @@
 class Dog
-end
+  def initialize(name)
+    @name = name
+  end
 
-class Bark
-  puts "Woof woof!"
-end
+  def bark
+    "Woof woof!"
+  end
 
-class Sit
-  puts "The Dog is sitting."
+  def sit
+  "The Dog is sitting."
+  end
 end
